@@ -1,8 +1,8 @@
 {
   "name": "expenses-chart-component",
   "version": "1.0.0",
-  "description": "![Design preview for the Expenses chart component coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
+  "homepage": "expenses-chart-component",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
